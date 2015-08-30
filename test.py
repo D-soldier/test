@@ -7,3 +7,5 @@ for i in range(3):
     print 'your name is:%s'%name
 
 print 'so,important things say three times!!!'
+
+#python is not too type
