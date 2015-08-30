@@ -1,4 +1,5 @@
 #coding:utf-8
+#write by gcc
 print 'hello test'
 name = raw_input('please enput your name>')
 
